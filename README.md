@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you'll find projects and research related to 
 - Image Analysis
 ## 🚜 Robotics & Agriculture Projects
 
-### Furrow-Following Robot (Computer Vision–Based Navigation)
+### Furrow-Following (Computer Vision–Based Detection)
 Vision-based system for crop-row and furrow-line detection in agricultural field imagery.
 
 - Multi-input, multi-output perception pipeline
