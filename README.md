@@ -28,7 +28,7 @@ Vision-based system for crop-row and furrow-line detection in agricultural field
 **Tech:** Python, Computer Vision, Deep Learning  
 **Role:** Collaborator / Contributor  
 
-🔗 https://github.com/Mr-Talhallyas/Furrow-Following
+https://github.com/Mr-TalhaIlyas/Furrow-Following
   
 
 ## 📫 Connect With Me
