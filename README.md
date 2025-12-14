@@ -16,6 +16,19 @@ Welcome to my GitHub profile! Here you'll find projects and research related to 
 - Precision Agriculture
 - Robotics & Automation
 - Image Analysis
+## 🚜 Robotics & Agriculture Projects
+
+### Furrow-Following Robot (Computer Vision–Based Navigation)
+Vision-based system for crop-row and furrow-line detection in agricultural field imagery.
+
+- Multi-input, multi-output perception pipeline
+- Furrow line and crop-row detection from image data
+- Designed for real-world agricultural environments
+
+**Tech:** Python, Computer Vision, Deep Learning  
+**Role:** Collaborator / Contributor  
+
+🔗 https://github.com/Mr-Talhlyas/Furrow-Following
   
 
 ## 📫 Connect With Me
